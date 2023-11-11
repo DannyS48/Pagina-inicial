@@ -1,0 +1,80 @@
+/*
+    selector {
+        propiedad : valor ;
+        propiedad : valor ;
+    }
+ */
+body {
+    /* Cambiar color de fondo */
+    background-color: rgb(146, 83, 136);
+    /* color de texto */
+    color: rgb(13, 4, 22);
+    /* Cambiar fuente del texto */
+    font-family: 'Playfair Display', serif;
+}
+
+h1 {
+    /* (: */
+    font-size: 300%;
+    color: rgb(27, 23, 29);
+    width: 70%;
+    height: 20%;
+    font-family: 'Playfair Display', serif;
+    justify-content: flex-end;
+    display: flex;
+}
+
+nav .imagenes-principales{
+    width: 90%;
+    height: 90%;
+}
+
+nav .imagenes-principales a{
+    margin-right: 8%;
+}
+h3 {
+    color: rgb(207, 181, 209);
+    font-size: 200%;
+}
+main .introduccion{
+    font-size: 150%;
+}
+a {
+    color: rgb(95, 26, 80);
+}
+h3{
+    font-size: 300%;
+}
+main .libros{
+    font-size: 150%;
+}
+main .rosario{
+    font-size: 130%;
+}
+main .ele{
+    font-size: 130%;
+}
+main .dolores{
+    font-size: 130%;
+}
+
+img {
+    /* width: ancho del objeto // height: alto del objeto */
+    width: 300px;
+}
+/* Al referenciar clase, usamos un punto (.) */
+.elena{
+    width: 90px;
+}
+.cleopatra{
+     width: 80px; */
+}
+main .pregunta{
+    font-size: 130%;
+}
+main .pre{
+    font-size: 160%;
+}
+main .ultima{
+    font-size: 160%;
+}
